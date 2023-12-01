@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyATuU2JGAW-Nfvjilh7ACcfRvT7SarLNPw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861990325708</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nourifyCtoChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>nf-garmin-development</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nf-garmin-development.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861990325708:ios:449c36849438b976e26169</string>
+	<key>DATABASE_URL</key>
+	<string>https://nf-garmin-development-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
