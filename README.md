@@ -1,16 +1,14 @@
 # nourify_cto_challenge
 
-A new Flutter project.
+Flutter Applikation für die Ansammlung und Konvertierung von Daten aus der Garmin API/Firebase Database.
 
-## Getting Started
+**Packages die bentuzt wurden:** 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- firebase_core: ^2.22.0
+- firebase_database: ^10.3.5
+- equatable: ^2.0.5
+- syncfusion_flutter_charts: ^23.2.6
+- intl: ^0.18.1
+- bloc: ^8.1.2
+- flutter_bloc: ^8.1.3
+- get_it: ^7.6.4
